@@ -103,7 +103,7 @@
 
 
 
- @media  screen and (max-width: 375px) {
+ @media  screen and (max-width: 800px) {
     body {
 
         background-color: hsl(0, 100%, 74%);
